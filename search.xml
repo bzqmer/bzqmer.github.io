@@ -24,4 +24,16 @@
         <tag>test</tag>
       </tags>
   </entry>
+  <entry>
+    <title></title>
+    <url>/2024/07/30/test/</url>
+    <content><![CDATA[<p>Hi!</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/%5Cimages%5Ctest.jpg"
+                      alt="test text"
+                ></p>
+]]></content>
+  </entry>
 </search>
